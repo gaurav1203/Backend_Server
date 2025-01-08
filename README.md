@@ -1,0 +1,1 @@
+Project to create a simple backend server using django and then managing the deployment using Vagrant.
